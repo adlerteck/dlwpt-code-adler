@@ -4,4 +4,4 @@ tools
 .idea
 __pycache__
 .ipynb_checkpoints
-down
+/down/
